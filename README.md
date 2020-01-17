@@ -6,6 +6,8 @@ WeChatExt是一个基于微信PC hook的项目，可实现微信PC端个人号�
 
 其中C++和C#的通信采用WebSocket方式通信，当前控制端也可以使用其他语言开发，只需要实现一个WebScoket服务即可。
 
+![image](https://github.com/Kueew/WeChatExt/blob/master/Images/main.png?raw=true)
+
 # 开发环境以及类库依赖
 ## 一、开发环境
 WeChatPC：2.8.0.112
